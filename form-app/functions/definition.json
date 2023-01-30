@@ -1,0 +1,18 @@
+[
+    {
+        "id": "name",
+        "fieldName": "Name"
+    },
+    {
+        "id": "email",
+        "fieldName": "E-mail"
+    },
+    {
+        "id": "password",
+        "fieldName": "Password"
+    },
+    {
+        "id": "enquiery",
+        "fieldName": "Enquiery"
+    }
+]

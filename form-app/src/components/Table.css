@@ -1,0 +1,31 @@
+.table {
+    width: 100%;
+    padding: 20px 0;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.table>h1 {
+    display: inline-block;
+    padding: 20px 0;
+    color: darkslategray;
+}
+
+.table__item {
+    width: 100%;
+    max-height: 250px;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    text-align: left;
+    display: flex;
+    overflow: scroll;
+}
+
+.table__itemLeft {
+    flex: 0.3;
+    color: darkslategray;
+}
+
+.table__itemRight {
+    flex: 0.7;
+}
