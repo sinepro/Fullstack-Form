@@ -1,4 +1,4 @@
-# Ligas Consulting Assignment
+# Assignment for Ligas Consulting
 
 ## How to Run the Application
 1. Download the github repository.
